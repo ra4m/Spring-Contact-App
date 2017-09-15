@@ -1,0 +1,8 @@
+com\raam\capp\test\TestUserDAOUpdate.class
+com\raam\capp\test\TestUserDAOFindAll.class
+com\raam\capp\test\TestUserServiceRegister.class
+com\raam\capp\test\TestUserDAOSave.class
+com\raam\capp\test\TestUserDAOFindSingleRecord.class
+com\raam\capp\test\TestUserDAODelete.class
+com\raam\capp\test\TestUserDAOFindByProperty.class
+com\raam\capp\test\TestDataSource.class
