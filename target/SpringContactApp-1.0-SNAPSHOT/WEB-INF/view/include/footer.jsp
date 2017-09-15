@@ -1,1 +1,0 @@
-Copyright &COPY; 2017 - <a target="_blank" href="https://www.linkedin.com/in/raam-sundararaj-14126749">Raam Noble</a>
